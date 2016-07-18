@@ -5,8 +5,10 @@
 
 | Harris        | Dog           |
 | ------------- |:-------------:| 
-|![Origin](https://github.com/ganji15/RPCA/blob/master/results/SRC/15D.jpg)|![A](https://github.com/ganji15/RPCA/blob/master/results/SRC/15A.jpg)|
-|![Origin](https://github.com/ganji15/RPCA/blob/master/results/SRC/14D.jpg)|![A](https://github.com/ganji15/RPCA/blob/master/results/SRC/14A.jpg)|
+|![campus](https://github.com/ganji15/ImageStitching/blob/master/ExperimentalResults/campus_harris.jpg)|![campus](https://github.com/ganji15/ImageStitching/blob/master/ExperimentalResults/campus_sift.jpg)|
+|![tree](https://github.com/ganji15/ImageStitching/blob/master/ExperimentalResults/tree_harris.jpg)|![tree](https://github.com/ganji15/ImageStitching/blob/master/ExperimentalResults/tree_sift.jpg)|
+|![yard](https://github.com/ganji15/ImageStitching/blob/master/ExperimentalResults/yard_harris.jpg)|![yard](https://github.com/ganji15/ImageStitching/blob/master/ExperimentalResults/yard_sift.jpg)|
+|![yosemite](https://github.com/ganji15/ImageStitching/blob/master/ExperimentalResults/yosemite_harris.jpg)|![yosemite](https://github.com/ganji15/ImageStitching/blob/master/ExperimentalResults/yosemite_sift.jpg)|
 
 ## Contacts
 ganji15@mails.ucas.ac.cn
